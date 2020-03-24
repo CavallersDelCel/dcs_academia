@@ -1,10 +1,17 @@
 # Temari general:
 
-1. Curs bàsic de pilot: A definir conceptes (aterratge, enlairament, ??)
+1. Curs bàsic de pilot:
+    * Ramp start (generic).
+    * Taxi.
+    * Enlairament.
+    * Aterratge.
+    * Formació.
+    * Comms amb torre.
 
 2. Protocols en comunicació de ràdio: http://www.cavallersdelcel.cat/forums/threads/classe-de-protocols-i-comunicaci%C3%B3.6002/   
    **Notes:** Expandir amb una taula de brevity codes  
-	 **Notes:** SRS setup: Al pack de benvinguda http://dcs.cavallersdelcel.cat/gn/pas8/
+   **Notes:** Manual Brevity Code del E69 https://www.youtube.com/watch?v=-Zw3b8yDpck  
+   **Notes:** SRS setup: Al pack de benvinguda http://dcs.cavallersdelcel.cat/gn/pas8/
 	
 3. Planificació de missions i rols : http://www.cavallersdelcel.cat/forums/threads/classe-sobre-com-planificar-missions.6038/  
     **Notes:** Pendent de fer Viper
@@ -24,7 +31,7 @@
     *	Tipus d'armament. Tipus de missils (fox 123). Missils especifics NATO i non-NATO.
     *	BVR:
 	    *	Coordinació del vol. Formacions i comunicació
-	    *	Maniobres ofensives. Energia del missil
+	    *	Maniobres ofensives. Energia del missil.
 	    *	Maniobres defensives: cranking, notching, etc.
     *	Dogfight:
 	    *	Concepte de l'energia de l'avió. E_total = energia_cinetica (velocitat) + energia_potencial(altitud)
