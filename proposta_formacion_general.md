@@ -53,10 +53,6 @@
     *	Funcionament bàsic
     *	Modes
 	
-10. Sistemes d'aeronaus: MIDS/Link-16
-    *	Conceptes  
-	  **Notes:** El Harrier te MIDS?
-	
 11. Mecànica del vol (extra, si interessa a la gent)
     *	Forces aerodinàmiques
     *	Angle d'atac
